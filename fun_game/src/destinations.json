@@ -1,0 +1,1402 @@
+[
+  {
+    "alias": "dst1",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#1)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst2",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#2)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst3",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#3)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst4",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#4)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst5",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#5)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst6",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#6)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst7",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#7)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst8",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#8)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst9",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#9)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst10",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#10)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst11",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#11)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst12",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#12)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst13",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#13)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst14",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#14)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst15",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#15)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst16",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#16)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst17",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#17)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst18",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#18)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst19",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#19)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst20",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#20)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst21",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#21)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst22",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#22)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst23",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#23)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst24",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#24)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst25",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#25)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst26",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#26)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst27",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#27)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst28",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#28)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst29",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#29)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst30",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#30)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst31",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#31)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst32",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#32)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst33",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#33)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst34",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#34)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst35",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#35)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst36",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#36)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst37",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#37)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst38",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#38)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst39",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#39)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst40",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#40)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst41",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#41)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst42",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#42)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst43",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#43)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst44",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#44)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst45",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#45)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst46",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#46)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst47",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#47)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst48",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#48)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst49",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#49)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst50",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#50)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst51",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#51)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst52",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#52)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst53",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#53)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst54",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#54)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst55",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#55)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst56",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#56)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst57",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#57)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst58",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#58)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst59",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#59)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst60",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#60)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst61",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#61)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst62",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#62)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst63",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#63)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst64",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#64)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst65",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#65)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst66",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#66)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst67",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#67)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst68",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#68)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst69",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#69)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst70",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#70)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst71",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#71)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst72",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#72)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst73",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#73)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst74",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#74)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst75",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#75)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst76",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#76)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst77",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#77)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst78",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#78)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst79",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#79)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst80",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#80)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst81",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#81)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst82",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#82)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst83",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#83)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst84",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#84)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst85",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#85)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst86",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#86)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst87",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#87)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst88",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#88)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst89",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#89)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst90",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#90)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "London has over 170 museums."
+    ]
+  },
+  {
+    "alias": "dst91",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#91)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "It's the most populous metropolitan area in the world."
+    ]
+  },
+  {
+    "alias": "dst92",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#92)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst93",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#93)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst94",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#94)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst95",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#95)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst96",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms",
+      "A popular destination for tourists (#96)"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst97",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Nicknamed the Big Apple",
+      "A popular destination for tourists (#97)"
+    ],
+    "funFacts": [
+      "Central Park is larger than Monaco.",
+      "The Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst98",
+    "name": "Rome",
+    "clues": [
+      "Once the center of a vast empire",
+      "Home to the Colosseum",
+      "A popular destination for tourists (#98)"
+    ],
+    "funFacts": [
+      "The Vatican City is inside Rome.",
+      "It has more fountains than any other city.",
+      "The Vatican City is inside Rome."
+    ]
+  },
+  {
+    "alias": "dst99",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower",
+      "The River Thames runs through it",
+      "A popular destination for tourists (#99)"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "The London Underground is the world's oldest metro system.",
+      "The Louvre is the world's largest art museum."
+    ]
+  },
+  {
+    "alias": "dst100",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light",
+      "A popular destination for tourists (#100)"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine.",
+      "Central Park is larger than Monaco."
+    ]
+  }
+]
