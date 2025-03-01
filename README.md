@@ -26,6 +26,29 @@ It features AI-generated trivia, score tracking, and a **Challenge a Friend** mo
 
 ---
 
+## 🔧 Installation & Setup
+### **1️⃣ Clone the Repository**
+
+### Install Dependencies
+npm install
+
+### Start the Server
+node routes.js
+
+### start the project
+npm start
+
+---
+
+## 🎮 How to Play?
+1️⃣ Start the game and enter a username.
+2️⃣ Read the cryptic clues and guess the destination.
+3️⃣ Select one of the multiple-choice options.
+4️⃣ Get instant feedback with fun facts!
+5️⃣ Click "Play Again" for a new challenge.
+6️⃣ Invite friends via WhatsApp and compare scores!
+
+
 
 
 
